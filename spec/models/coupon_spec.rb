@@ -9,3 +9,4 @@ describe Coupon do
     expect(@coupon).to be_valid
   end
 end
+
